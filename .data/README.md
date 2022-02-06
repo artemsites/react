@@ -1,4 +1,10 @@
-Закладки:
+#### Ролики от Владилена
+  https://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9?p=8f8c4e699fc54b878e1a00edbefff046
+
+#### Закладки:
+  Димыч React путь самурая
+    18. Уроки React JS (страница Dialogs) - react курсы бесплатно
+      https://www.youtube.com/watch?v=-mDs48HB3II&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
   React JS Быстрый Курс 2020
     https://youtu.be/xJZa2_aldDs
   React Hooks - Полный Курс
@@ -14,11 +20,8 @@
   Fullstack приложение за 3 часа
     https://youtu.be/ivDjWYcKDZI
 
-Димыч React путь самурая
-  18. Уроки React JS (страница Dialogs) - react курсы бесплатно
-    https://www.youtube.com/watch?v=-mDs48HB3II&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
-Docs остановился тут:
+#### Docs остановился тут:
   react js: 
     https://ru.reactjs.org/docs/context.html#contextconsumer
 
@@ -27,7 +30,7 @@ Docs остановился тут:
 
 
   
-Теория
+#### Теория
   Состояние === интерактивность
 
   Что должно храниться в состоянии? Задайте себе три вопроса:
@@ -42,15 +45,15 @@ Docs остановился тут:
             Поисковый запрос, введённый пользователем
             Значение чекбокса
   
-Debug 
+#### Debug 
   https://github.com/facebook/react/tree/main/packages/react-devtools
   npx react-devtools
 
-Разработка
+#### Разработка
   ```
   npm start
   ```
-Сборка
+#### Сборка
   ```
   npm run build
   ```
