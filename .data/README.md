@@ -1,25 +1,11 @@
 #### Ролики от Владилена
   https://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9?p=8f8c4e699fc54b878e1a00edbefff046
+    React JS Быстрый Курс 2020
+      https://youtu.be/xJZa2_aldDs?t=2890
 
-#### Закладки:
-  Димыч React путь самурая
+#### Димыч React путь самурая:  
     18. Уроки React JS (страница Dialogs) - react курсы бесплатно
       https://www.youtube.com/watch?v=-mDs48HB3II&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
-  React JS Быстрый Курс 2020
-    https://youtu.be/xJZa2_aldDs
-  React Hooks - Полный Курс
-    https://youtu.be/9KJxaFHotqI
-  React Suspense
-    https://youtu.be/IU6WpNSSNOI
-  React JS + TypeScript
-    https://youtu.be/OvLWWvjoi8s
-  50 вопросов на React JS собеседование
-    https://youtu.be/-cZOdWjFwXw
-  React JS - Приложение целиком
-    https://youtu.be/V1rhxheJg4A
-  Fullstack приложение за 3 часа
-    https://youtu.be/ivDjWYcKDZI
-
 
 #### Docs остановился тут:
   react js: 
