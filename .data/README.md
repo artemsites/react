@@ -1,7 +1,7 @@
 #### Ролики от Владилена
   https://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9?p=8f8c4e699fc54b878e1a00edbefff046
-    React JS Быстрый Курс 2020
-      https://youtu.be/xJZa2_aldDs?t=2890
+
+
 
 #### Димыч React путь самурая:  
     18. Уроки React JS (страница Dialogs) - react курсы бесплатно
@@ -13,6 +13,12 @@
 
   react-router-dom
     https://github.com/remix-run/react-router/blob/main/docs/getting-started/installation.md
+
+
+
+#### Посмотрел, повторил:
+  React JS Быстрый Курс 2020
+    https://youtu.be/xJZa2_aldDs?t=2890
 
 
   
