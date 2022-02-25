@@ -18,7 +18,7 @@
 
 #### Посмотрел, повторил:
   React JS Быстрый Курс 2020
-    https://youtu.be/xJZa2_aldDs?t=2890
+    https://youtu.be/xJZa2_aldDs
 
 
   
